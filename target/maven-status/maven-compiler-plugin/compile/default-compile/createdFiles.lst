@@ -1,0 +1,8 @@
+royalburger\service\PaymentService.class
+royalburger\model\Category.class
+royalburger\ui\Main.class
+royalburger\util\ReceiptGenerator.class
+royalburger\model\Order.class
+royalburger\service\ReceiptService.class
+royalburger\model\Product.class
+royalburger\service\OrderService.class
